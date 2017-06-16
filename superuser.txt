@@ -1,0 +1,3 @@
+user= root
+mail= dariko7d6@gmail.com
+pass= youKnow
